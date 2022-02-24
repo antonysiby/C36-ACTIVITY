@@ -1,1 +1,2 @@
-# C36-ACTIVITY
+# C36RV_SpeedRacer_StudentActivity
+Student Activity
